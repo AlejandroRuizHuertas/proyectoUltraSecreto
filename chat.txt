@@ -6,3 +6,5 @@ Alex: Qué sueño entonces
 
 Pablo: Buenos días. Otro día en la oficina dando circuito secuenciales síncronos. ¿Y usted?
 Alex: Depurando un panel para crear las condiciones de las reglas, que me crea condiciones vacías cuando no debería ajiá
+
+Alex: Hola bom día
